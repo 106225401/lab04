@@ -6,13 +6,13 @@ author: Jingyee
 
 created: 8/4/2026, 8:31 AM
 
-last modified: 8/4/2026, 3:25 PM
+last modified: 8/4/2026, 3:40 PM
 
 description: External CSS Stylesheet refers to lab04.html
 
 */
 
-h1 { 
+h1 {
     color: purple;
     font-size: 2em;
     font-weight: bold;
